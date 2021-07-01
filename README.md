@@ -75,4 +75,4 @@ function showMovies(movies){
 }
 ```
 
-***End walkthrough
+***End walkthrough.
